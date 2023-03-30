@@ -64,7 +64,7 @@ body.hidden {
 main {
   padding-bottom: 80px;
   padding-top: 26px;
-  background: url(../img/pika\ +\ ellipse.png) no-repeat left top, url(/img/star\ +\ ellipse.png) no-repeat right 5% top, url(/img/pika.png) no-repeat right 3% top 15%, url(../img/cube.png) no-repeat right 5% top 27%, url(../img/ellipse-5.svg) no-repeat right 5% top 50%, url(../img/ellipse-small.svg) no-repeat right 5% bottom 17%, url(../img/ellipse-small-strong.svg) no-repeat right 5% bottom 2%, url(../img/cube2.png) no-repeat left 20% bottom, url(../img/pika2.png) no-repeat left 3% bottom, url(../img/ellipse-6.svg) no-repeat left 3% bottom 20%, url(../img/cube3.svg) no-repeat left 2% bottom 43%, url(../img/star2\ +\ ellipse.png) no-repeat left 3% bottom 55%, url(../img/stars.svg) no-repeat left 3% top 20%;
+  background: url(../img/pika\ +\ ellipse.png) no-repeat left top, url(../img/star\ +\ ellipse.png) no-repeat right 5% top, url(../img/pika.png) no-repeat right 3% top 15%, url(../img/cube.png) no-repeat right 5% top 27%, url(../img/ellipse-5.svg) no-repeat right 5% top 50%, url(../img/ellipse-small.svg) no-repeat right 5% bottom 17%, url(../img/ellipse-small-strong.svg) no-repeat right 5% bottom 2%, url(../img/cube2.png) no-repeat left 20% bottom, url(../img/pika2.png) no-repeat left 3% bottom, url(../img/ellipse-6.svg) no-repeat left 3% bottom 20%, url(../img/cube3.svg) no-repeat left 2% bottom 43%, url(../img/star2\ +\ ellipse.png) no-repeat left 3% bottom 55%, url(../img/stars.svg) no-repeat left 3% top 20%;
 }
 @media (max-width: 1140px) {
   main {
